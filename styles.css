@@ -1,0 +1,147 @@
+body {
+    font-family: 'Libre Baskerville', sans-serif;
+    font-size: calc(15px + 0.390625vw);
+    line-height: 2rem;
+    background-color: #F5F6F7;
+    color: #0A0A23;
+    margin-top: 5%;
+    padding: 0;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: fit-content;
+    margin-top: 5%;
+    background-color: #ffffff;
+    padding: calc(20px + 1.5625vw);
+    line-height: 2.2rem;
+}
+
+.home, #quote {
+    margin: calc(8px + 1.5625vw);
+}
+
+h1 {
+    color: #1B1B32;
+    font-size: calc(20px + 1.5625vw);  
+}
+
+h2 {
+    font-size: calc(18px + 1.5625vw);
+    padding: 3% 0;
+}
+
+h2, #quote, #footer {
+    text-align: center;
+}
+
+.title {
+    width: 60%;
+    text-align: left;
+}
+
+.img {
+    width: 40%;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .title {
+        width: 100%;
+        
+    }
+    .img {
+        width: 100%;
+    }
+}
+
+#image {
+    width: 300;
+    max-width: 100%;
+    height: auto;
+}
+
+#title, #sub-title {
+    padding: 0 6%;
+}
+
+#sub-title {
+    color: #C3AB32;
+    text-transform: uppercase;
+    padding-bottom: 5%;
+}
+
+.article {
+    text-align: justify;
+    text-justify: auto;
+    padding: 0 6% 3% 6%; 
+}
+
+#img-caption {
+    text-align: center;
+    color: #80808D;
+    font-size: calc(13px + 0.390625vw);
+    padding-top: 2%;
+}
+
+#quote, #footer {
+    background-color: #1B1B32;
+    color: #ffffff;
+}
+
+#quote {
+    letter-spacing: 0.1em;
+    font-weight: 550;
+    padding: calc(8px + 1.5625vw);
+}
+
+.quote {
+    font-size: calc(13px + 1.5625vw);;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+  
+.gallery img {
+    width: 350px;
+    max-width: 100%;
+    height: 480px;
+    object-fit: cover;
+    border-radius: 2px;
+}
+  
+.gallery::after {
+    content: "";
+    width: 330px;
+}
+  
+.tribute-link {
+    text-align: center;
+}
+
+#footer {
+    padding: calc(10px + 1.5625vw);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #C3AB32;
+}
