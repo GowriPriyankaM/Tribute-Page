@@ -100,10 +100,13 @@ If you want to contribute to the project, follow the below steps.
 
 7. **Create a Pull Request :** Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
 
-      Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made. If there are any relevant issues or discussions, reference them in your pull request and submit it.
+      Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
 
       Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
       _Congratulations! You have successfully contributed to the project._
+      
+## License :
 
-
+   
+   Tribute Page is **[MIT Licensed](./LICENSE).**
