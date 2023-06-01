@@ -2,12 +2,15 @@
 
 ## Table of Contents :
 
-- [Description](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#description-)
-- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#structure-of-the-webpage-)
-- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Challenge-)
-- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Screenshots-)
-- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Contributions-)
-- [License](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#License-)
+- [Description](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#description)
+- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#structure-of-the-webpage)
+- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Challenge)
+- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Screenshots)
+  - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Desktop-Design)
+  - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Tab-Design)
+  - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Mobile-Design)
+- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Contributions)
+- [License](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#License)
 
 ## Description :
 
