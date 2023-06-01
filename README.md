@@ -1,5 +1,14 @@
 # Tribute Page
 
+## Table of Contents :
+
+- [Description](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#description-)
+- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#structure-of-the-webpage-)
+- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Challenge-)
+- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Screenshots-)
+- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#Contributions-)
+- [License](https://github.com/GowriPriyankaM/Tribute-Page/edit/main/README.md#License-)
+
 ## Description :
 
 The purpose of a Tribute page is to provide a brief overview about someone we admire in our lives. In this project, with the help of **HTML** and **CSS**, I have built a responsive **Tribute Page for Raja Ravi Varma** who is considered as one of the greatest painters in the history of Indian art. I have created this project as a part of my Responsive Web Design certification in FreeCodeCamp curriculum. 
