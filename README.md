@@ -2,15 +2,15 @@
 
 ## Table of Contents :
 
-- [Description](https://github.com/GowriPriyankaM/Tribute-Page#description)
-- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page#structure-of-the-webpage)
-- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page#Challenge)
-- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page#Screenshots)
+- [Description](https://github.com/GowriPriyankaM/Tribute-Page#description-)
+- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page#structure-of-the-webpage-)
+- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page#challenge-)
+- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page#screenshots-)
   - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page#Desktop-Design)
   - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page#Tab-Design)
   - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page#Mobile-Design)
-- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page#Contributions)
-- [License](https://github.com/GowriPriyankaM/Tribute-Page#License)
+- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page#contributions-)
+- [License](https://github.com/GowriPriyankaM/Tribute-Page#license-)
 
 ## Description :
 
