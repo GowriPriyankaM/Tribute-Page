@@ -4,6 +4,11 @@
 
 - [Description](https://github.com/GowriPriyankaM/Tribute-Page#description-)
 - [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page#structure-of-the-webpage-)
+  - [Intro Section](https://github.com/GowriPriyankaM/Tribute-Page#intro-section-)
+  - [About Section](https://github.com/GowriPriyankaM/Tribute-Page#about-section-)
+  - [Quote Section](https://github.com/GowriPriyankaM/Tribute-Page#quote-section-)
+  - [Gallery Section](https://github.com/GowriPriyankaM/Tribute-Page#gallery-section-)
+  - [Footer](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
 - [Challenge](https://github.com/GowriPriyankaM/Tribute-Page#challenge-)
 - [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page#screenshots-)
   - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page#Desktop-Design)
