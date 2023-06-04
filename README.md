@@ -15,6 +15,13 @@
   - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page#Tab-Design)
   - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page#Mobile-Design)
 - [Contributions](https://github.com/GowriPriyankaM/Tribute-Page#contributions-)
+  1. [Fork the Repository](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  2. [Clone the Repository](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  3. [Create a Branch](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  4. [Make Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  5. [Commit Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  6. [Push Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  7. [Create a Pull Request](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
 - [License](https://github.com/GowriPriyankaM/Tribute-Page#license-)
 
 ## Description :
@@ -67,61 +74,75 @@ The purpose of a Tribute page is to provide a brief overview about someone we ad
 
 If you want to contribute to the project, follow the below steps.
 
-1. **Fork the Repository :** On the project's GitHub page, click the "Fork" button at the top right corner. This creates a copy of the project under your own GitHub account.
+#### 1. Fork the Repository :
 
-2. **Clone the Repository :** Once you've forked the repository, you'll want to have a local copy of it on your machine. 
- 
-      To do this, open a terminal or command prompt, navigate to your desired directory, and run the following command.
- 
-      ```
-      git clone https://github.com/username/Tribute-Page.git
-      ```
- 
-      Here, replace "username" with your GitHub username.
- 
-3. **Create a Branch :** It's good practice to create a new branch for your contributions. This keeps your changes isolated from the main project. 
+On the project's GitHub page, click the "Fork" button at the top right corner. This creates a copy of the project under your own GitHub account.
 
-      Run the following command to create and switch to a new branch.
-
-      ```
-      git switch -c your-branch-name  
-      ```
+#### 2. Clone the Repository : 
       
-      Replace "your-branch-name" with a descriptive name for your branch.
+Once you've forked the repository, you'll want to have a local copy of it on your machine. 
+ 
+To do this, open a terminal or command prompt, navigate to your desired directory, and run the following command.
+ 
+```
+ git clone https://github.com/username/Tribute-Page.git
+```
+ 
+Here, replace "username" with your GitHub username.
+ 
+#### 3. Create a Branch : 
+      
+It's good practice to create a new branch for your contributions. This keeps your changes isolated from the main project. 
 
-4. **Make Changes :** Open the project in your preferred text editor or IDE and make the necessary changes or additions to the code, documentation, or other project files.
+Run the following command to create and switch to a new branch.
 
-5. **Commit Changes :** After making your changes, save the files and go back to the terminal or command prompt. 
+```
+ git switch -c your-branch-name  
+```
+      
+Replace "your-branch-name" with a descriptive name for your branch.
 
-      Use the following command to stage your changes for commit.  
+#### 4. Make Changes : 
+      
+Open the project in your preferred text editor or IDE and make the necessary changes or additions to the code, documentation, or other project files.
 
-      ```
-      git add file-name
-      ```
+#### 5. Commit Changes : 
+      
+After making your changes, save the files and go back to the terminal or command prompt. 
 
-      This command adds all modified and new files for commit. If you want to add specific files, replace "file-name" with the file names.
+Use the following command to stage your changes for commit.  
 
-      Next, commit your changes with a descriptive commit message.
+```
+ git add file-name
+```
 
-      ```
-      git commit -m "Your commit message"
-      ```
+This command adds all modified and new files for commit. If you want to add specific files, replace "file-name" with the file names.
 
-6. **Push Changes :** Push your local branch with the committed changes to your forked repository on GitHub using the following command.
+Next, commit your changes with a descriptive commit message.
 
-      ```
-      git push -u origin your-branch-name
-      ```
+```
+ git commit -m "Your commit message"
+```
 
-      Replace "your-branch-name" with the name of the branch you created earlier.
+#### 6. Push Changes : 
 
-7. **Create a Pull Request :** Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
+Push your local branch with the committed changes to your forked repository on GitHub using the following command.
 
-      Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
+```
+ git push -u origin your-branch-name
+```
 
-      Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Replace "your-branch-name" with the name of the branch you created earlier.
 
-      _Congratulations! You have successfully contributed to the project._
+#### 7. Create a Pull Request : 
+
+Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
+
+Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
+
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+_Congratulations! You have successfully contributed to the project._
       
 ## License :
 
