@@ -11,17 +11,17 @@
   - [Footer](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
 - [Challenge](https://github.com/GowriPriyankaM/Tribute-Page#challenge-)
 - [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page#screenshots-)
-  - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page#Desktop-Design)
-  - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page#Tab-Design)
-  - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page#Mobile-Design)
+  - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page#desktop-design--click-here-to-view-its-full-screen-capture)
+  - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page#tab-design--click-here-to-view-its-full-screen-capture)
+  - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page#mobile-design--click-here-to-view-its-full-screen-capture)
 - [Contributions](https://github.com/GowriPriyankaM/Tribute-Page#contributions-)
-  1. [Fork the Repository](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  2. [Clone the Repository](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  3. [Create a Branch](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  4. [Make Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  5. [Commit Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  6. [Push Changes](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-  7. [Create a Pull Request](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
+  1. [Fork the Repository](https://github.com/GowriPriyankaM/Tribute-Page#1-fork-the-repository-)
+  2. [Clone the Repository](https://github.com/GowriPriyankaM/Tribute-Page#2-clone-the-repository-)
+  3. [Create a Branch](https://github.com/GowriPriyankaM/Tribute-Page#3-create-a-branch-)
+  4. [Make Changes](https://github.com/GowriPriyankaM/Tribute-Page#4-make-changes-)
+  5. [Commit Changes](https://github.com/GowriPriyankaM/Tribute-Page#5-commit-changes-)
+  6. [Push Changes](https://github.com/GowriPriyankaM/Tribute-Page#6-push-changes-)
+  7. [Create a Pull Request](https://github.com/GowriPriyankaM/Tribute-Page#7-create-a-pull-request-)
 - [License](https://github.com/GowriPriyankaM/Tribute-Page#license-)
 
 ## Description :
@@ -52,19 +52,19 @@ The purpose of a Tribute page is to provide a brief overview about someone we ad
 
 ## Screenshots :
 
-- **Desktop Design |** [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Desktop%20Screen.png)
+#### Desktop Design | [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Desktop%20Screen.png)
   
   _Here's a Snippet of Tribute Page on Desktop Screen :_
   
   ![Desktop Screen Design](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/Desktop%20Screen%20Snippet.png)
   
-- **Tab Design |** [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Tab%20Screen.png)
+#### Tab Design | [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Tab%20Screen.png)
    
   _Here's a Snippet of Tribute Page on Tab Screen :_
    
   ![Tab Screen Design](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/Tab%20Screen%20Snippet.png)
   
-- **Mobile Design |** [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Mobile%20Screen.png)
+#### Mobile Design | [Click Here to View it's Full Screen Capture](https://github.com/GowriPriyankaM/Tribute-Page/blob/main/images/TP%20Mobile%20Screen.png)
    
   _Here's a Snippet of Tribute Page on Mobile Screen :_
    
