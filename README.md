@@ -30,19 +30,19 @@ The purpose of a Tribute page is to provide a brief overview about someone we ad
 
 ## Structure of the Webpage :
 
-- **Intro Section :** 
+#### Intro Section : 
 
   This section consists of a picture and a brief introduction about Ravi Varma.
-- **About Section :** 
+#### About Section : 
   
   This section gives an insight about Raja Ravi Varma's profession and background.
-- **Quote Section :** 
+#### Quote Section : 
   
   The following section is merely comprised of a quote by Ravi Varma.
-- **Gallery Section :** 
+#### Gallery Section : 
   
   This section shows some of the famous paintings of Ravi Varma along with a wikipedia link at the end to know more info about him.
-- **Footer :** 
+#### Footer : 
   
   It contains a github profile link of the designer and developer of this page.
   
