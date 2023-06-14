@@ -142,7 +142,7 @@ Click on the "Compare & pull request" button and provide a clear title and descr
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
-_Congratulations! You have successfully contributed to the project._
+*Congratulations! You have successfully contributed to the project.*
       
 ## License :
 
