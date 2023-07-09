@@ -1,5 +1,8 @@
 # Tribute Page
 
+
+Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/qBQVZjd)** of this project.
+
 ## Table of Contents :
 
 - [Description](https://github.com/GowriPriyankaM/Tribute-Page#description-)
