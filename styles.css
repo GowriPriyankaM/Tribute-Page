@@ -49,16 +49,6 @@ h2, #quote, #footer {
     text-align: center;
 }
 
-@media screen and (max-width: 600px) {
-    .title {
-        width: 100%;
-        
-    }
-    .img {
-        width: 100%;
-    }
-}
-
 #image {
     width: 300;
     max-width: 100%;
@@ -144,4 +134,13 @@ a {
 
 a:hover {
     color: #C3AB32;
+}
+
+@media screen and (max-width: 600px) {
+    .title {
+        width: 100%;
+    }
+    .img {
+        width: 100%;
+    }
 }
