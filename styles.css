@@ -90,7 +90,8 @@ h2, #quote, #footer {
 }
 
 .quote {
-    font-size: calc(13px + 1.5625vw);;
+    font-size: calc(13px + 1.5625vw);
+    font-style: italic;
 }
 
 .gallery {
