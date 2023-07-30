@@ -79,7 +79,7 @@ If you want to contribute to the project, follow the below steps.
 
 #### 1. Fork the Repository :
 
-On the project's GitHub page, click the "Fork" button at the top right corner. This creates a copy of the project under your own GitHub account.
+Click on the "Fork" button at the top right corner of this page. This creates a copy of the project under your own GitHub account.
 
 #### 2. Clone the Repository : 
       
@@ -107,7 +107,7 @@ Replace "your-branch-name" with a descriptive name for your branch.
 
 #### 4. Make Changes : 
       
-Open the project in your preferred text editor or IDE and make the necessary changes or additions to the code, documentation, or other project files.
+Open the project in your preferred text editor or IDE and make the necessary changes or additions to the project files.
 
 #### 5. Commit Changes : 
       
@@ -147,5 +147,4 @@ Click on the "Compare & pull request" button and provide a clear title and descr
       
 ## License :
 
-   
    Tribute Page is **[MIT Licensed](./LICENSE).**
