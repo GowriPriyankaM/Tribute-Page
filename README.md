@@ -144,6 +144,12 @@ Once your changes are pushed to your forked repository on GitHub, You should see
 Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
 
 *Congratulations! You have successfully contributed to the project.*
+
+## Stack :
+
+- HTML5
+- CSS3 
+- Wikipedia & Google (for the info & pictures)
       
 ## License :
 
