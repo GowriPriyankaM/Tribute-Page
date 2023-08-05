@@ -1,31 +1,6 @@
 # Tribute Page
 
-
 Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/qBQVZjd)** of this project.
-
-## Table of Contents :
-
-- [Description](https://github.com/GowriPriyankaM/Tribute-Page#description-)
-- [Structure of the Webpage](https://github.com/GowriPriyankaM/Tribute-Page#structure-of-the-webpage-)
-  - [Intro Section](https://github.com/GowriPriyankaM/Tribute-Page#intro-section-)
-  - [About Section](https://github.com/GowriPriyankaM/Tribute-Page#about-section-)
-  - [Quote Section](https://github.com/GowriPriyankaM/Tribute-Page#quote-section-)
-  - [Gallery Section](https://github.com/GowriPriyankaM/Tribute-Page#gallery-section-)
-  - [Footer](https://github.com/GowriPriyankaM/Tribute-Page#footer-)
-- [Challenge](https://github.com/GowriPriyankaM/Tribute-Page#challenge-)
-- [Screenshots](https://github.com/GowriPriyankaM/Tribute-Page#screenshots-)
-  - [Desktop Design](https://github.com/GowriPriyankaM/Tribute-Page#desktop-design--click-here-to-view-its-full-screen-capture)
-  - [Tab Design](https://github.com/GowriPriyankaM/Tribute-Page#tab-design--click-here-to-view-its-full-screen-capture)
-  - [Mobile Design](https://github.com/GowriPriyankaM/Tribute-Page#mobile-design--click-here-to-view-its-full-screen-capture)
-- [Contributions](https://github.com/GowriPriyankaM/Tribute-Page#contributions-)
-  1. [Fork the Repository](https://github.com/GowriPriyankaM/Tribute-Page#1-fork-the-repository-)
-  2. [Clone the Repository](https://github.com/GowriPriyankaM/Tribute-Page#2-clone-the-repository-)
-  3. [Create a Branch](https://github.com/GowriPriyankaM/Tribute-Page#3-create-a-branch-)
-  4. [Make Changes](https://github.com/GowriPriyankaM/Tribute-Page#4-make-changes-)
-  5. [Commit Changes](https://github.com/GowriPriyankaM/Tribute-Page#5-commit-changes-)
-  6. [Push Changes](https://github.com/GowriPriyankaM/Tribute-Page#6-push-changes-)
-  7. [Create a Pull Request](https://github.com/GowriPriyankaM/Tribute-Page#7-create-a-pull-request-)
-- [License](https://github.com/GowriPriyankaM/Tribute-Page#license-)
 
 ## Description :
 
